@@ -503,7 +503,7 @@ header .navigationbar ul li a:hover{
  
  }
 
-@media (min-width:600px){
+@media (max-width:600px){
 
     header{
         width: 100vw;
